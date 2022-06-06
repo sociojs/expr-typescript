@@ -1,5 +1,5 @@
-"use strict";
+'use strict';
 var checkWeather = function (city) {
-    return "Cloudy";
+  return 'Cloudy';
 };
-console.log(checkWeather('Jakarta'));
+console.log(checkWeather('Jakartaxxx'));
